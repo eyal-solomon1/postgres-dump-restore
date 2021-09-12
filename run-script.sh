@@ -1,3 +1,5 @@
+#!/bin/bash
+
 source_pass=""
 source_host=""
 source_db_name=""
